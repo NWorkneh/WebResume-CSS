@@ -1,0 +1,64 @@
+body {
+	background-color: #c0c0c0;
+	background-image: url("jmu-logo.png");
+	background-repeat: no-repeat ;
+	background-position: right top;
+	background-size: 200px;
+	}
+
+h1, h4 { 
+		font-family: Arial, serif;
+		color: #450084;
+		text-align: center;
+		}
+
+h2 { 
+	font-family: Arial, serif;
+	color: #998200;
+	}
+p {
+	font-family: Arial, serif;
+	}
+
+div {
+    text-align: center;
+    }
+/* unvisited link */
+a:link {
+  color: #000000;
+}
+
+/* visited link */
+a:visited {
+  color: #000000;
+}
+
+/* mouse over link */
+a:hover {
+  color: #998200;
+}
+
+/* selected link */
+a:active {
+  color: #450084;
+}
+
+.bolded { 
+		font-weight: bold; 
+		}
+
+.emphasized { 
+			font-style: italic; 
+			}
+.underlined {
+			text-decoration: underline;
+			}
+
+.list{
+ 	list-style-type: square;
+ 	font-family: Arial, serif;
+	}
+.space {
+	float: right ;
+}
+
